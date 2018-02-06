@@ -1,0 +1,38 @@
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.Form1.resources
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.Properties.Resources.resources
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.csproj.GenerateResource.Cache
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\ReloadPage.exe.config
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\ReloadPage.exe
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\ReloadPage.pdb
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.exe
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\obj\Debug\ReloadPage.pdb
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\WebDriver.dll
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\WebDriver.xml
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\itextsharp.dll
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\itextsharp.xtra.dll
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\itextsharp.xml
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\QRCoder.dll
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\UnityEngine.dll
+C:\Users\Tomek\source\repos\ReloadPage\ReloadPage\bin\Debug\ZKWeb.System.Drawing.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\ReloadPage.exe.config
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\ReloadPage.exe
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\ReloadPage.pdb
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\itextsharp.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\itextsharp.xtra.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\QRCoder.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\UnityEngine.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\WebDriver.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\ZKWeb.System.Drawing.dll
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\itextsharp.xml
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\bin\Debug\WebDriver.xml
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.Form1.resources
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.Properties.Resources.resources
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.exe
+C:\Users\Tomek\Desktop\generator kodów\QRGenerator-master\ReloadPage\ReloadPage\obj\Debug\ReloadPage.pdb
